@@ -95,12 +95,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "a9f1612be3640394007609e2cbe12f1842253455",
     "author": "christian-ledezma",
     "commit": {
       "date": "2026-05-26T03:20:09.000Z",
       "message": "feat: adicion separador guion",
-      "url": "https://github.com/christian-ledezma/strings_calculator/commit/HEAD"
+      "url": "https://github.com/christian-ledezma/strings_calculator/commit/a9f1612be3640394007609e2cbe12f1842253455"
     },
     "stats": {
       "total": 10,
@@ -110,6 +110,25 @@
     },
     "coverage": 100,
     "test_count": 9,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "christian-ledezma",
+    "commit": {
+      "date": "2026-05-26T03:34:55.000Z",
+      "message": "feat: delimitador custom con formato //[delim]",
+      "url": "https://github.com/christian-ledezma/strings_calculator/commit/HEAD"
+    },
+    "stats": {
+      "total": 25,
+      "additions": 24,
+      "deletions": 1,
+      "date": "2026-05-26"
+    },
+    "coverage": 100,
+    "test_count": 11,
     "failed_tests": 0,
     "conclusion": "success"
   }

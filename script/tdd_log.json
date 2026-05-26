@@ -110,9 +110,39 @@
     "testId": 5
   },
   {
-    "commitId": "HEAD",
+    "commitId": "a9f1612be3640394007609e2cbe12f1842253455",
     "commitName": "feat: adicion separador guion",
     "commitTimestamp": 1779765609656,
     "testId": 5
+  },
+  {
+    "numPassedTests": 9,
+    "failedTests": 2,
+    "numTotalTests": 11,
+    "timestamp": 1779765649333,
+    "success": false,
+    "testId": 6
+  },
+  {
+    "numPassedTests": 10,
+    "failedTests": 1,
+    "numTotalTests": 11,
+    "timestamp": 1779766158816,
+    "success": false,
+    "testId": 6
+  },
+  {
+    "numPassedTests": 11,
+    "failedTests": 0,
+    "numTotalTests": 11,
+    "timestamp": 1779766465451,
+    "success": true,
+    "testId": 6
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: delimitador custom con formato //[delim]",
+    "commitTimestamp": 1779766495841,
+    "testId": 6
   }
 ]

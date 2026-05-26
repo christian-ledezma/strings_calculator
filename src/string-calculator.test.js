@@ -33,4 +33,12 @@ describe("Calculadora de Cadenas", () => {
         expect(sumarCadena("1-2,3")).toEqual(6);
     });
 
+    it("debería soportar delimitador custom especificado con //[;]", () => {
+        expect(sumarCadena("//[;] 6;7;4")).toEqual(17);
+    });
+    
+    it("debería combinar delimitador custom con coma y guion", () => {
+        expect(sumarCadena("//[;] 6,3-2;1")).toEqual(12);
+    });
+
 });
