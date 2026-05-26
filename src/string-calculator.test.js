@@ -25,4 +25,12 @@ describe("Calculadora de Cadenas", () => {
         expect(sumarCadena("1,2,4,8")).toEqual(15);
     });
 
+    it("debería sumar números separados por guion", () => {
+        expect(sumarCadena("1-2-3")).toEqual(6);
+    });
+    
+    it("debería sumar números con separadores mixtos coma y guion", () => {
+        expect(sumarCadena("1-2,3")).toEqual(6);
+    });
+
 });

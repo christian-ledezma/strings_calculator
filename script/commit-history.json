@@ -76,12 +76,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "ccbd4b991810b793860dde84dc8c46f639955797",
     "author": "christian-ledezma",
     "commit": {
       "date": "2026-05-26T03:18:19.000Z",
       "message": "feat: suma varios números separados por coma",
-      "url": "https://github.com/christian-ledezma/strings_calculator/commit/HEAD"
+      "url": "https://github.com/christian-ledezma/strings_calculator/commit/ccbd4b991810b793860dde84dc8c46f639955797"
     },
     "stats": {
       "total": 8,
@@ -91,6 +91,25 @@
     },
     "coverage": 100,
     "test_count": 7,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "christian-ledezma",
+    "commit": {
+      "date": "2026-05-26T03:20:09.000Z",
+      "message": "feat: adicion separador guion",
+      "url": "https://github.com/christian-ledezma/strings_calculator/commit/HEAD"
+    },
+    "stats": {
+      "total": 10,
+      "additions": 9,
+      "deletions": 1,
+      "date": "2026-05-26"
+    },
+    "coverage": 100,
+    "test_count": 9,
     "failed_tests": 0,
     "conclusion": "success"
   }

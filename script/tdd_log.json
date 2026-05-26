@@ -88,9 +88,31 @@
     "testId": 4
   },
   {
-    "commitId": "HEAD",
+    "commitId": "ccbd4b991810b793860dde84dc8c46f639955797",
     "commitName": "feat: suma varios números separados por coma",
     "commitTimestamp": 1779765499354,
     "testId": 4
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 2,
+    "numTotalTests": 9,
+    "timestamp": 1779765527131,
+    "success": false,
+    "testId": 5
+  },
+  {
+    "numPassedTests": 9,
+    "failedTests": 0,
+    "numTotalTests": 9,
+    "timestamp": 1779765568394,
+    "success": true,
+    "testId": 5
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: adicion separador guion",
+    "commitTimestamp": 1779765609656,
+    "testId": 5
   }
 ]
