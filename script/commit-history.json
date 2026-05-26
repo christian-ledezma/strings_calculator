@@ -57,12 +57,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "28f2ed0dd6300fb61bb0f80b05ef3a3177aeb694",
     "author": "christian-ledezma",
     "commit": {
       "date": "2026-05-26T03:17:04.000Z",
       "message": "feat: suma dos números separados por coma",
-      "url": "https://github.com/christian-ledezma/strings_calculator/commit/HEAD"
+      "url": "https://github.com/christian-ledezma/strings_calculator/commit/28f2ed0dd6300fb61bb0f80b05ef3a3177aeb694"
     },
     "stats": {
       "total": 7,
@@ -72,6 +72,25 @@
     },
     "coverage": 100,
     "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "christian-ledezma",
+    "commit": {
+      "date": "2026-05-26T03:18:19.000Z",
+      "message": "feat: suma varios números separados por coma",
+      "url": "https://github.com/christian-ledezma/strings_calculator/commit/HEAD"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 8,
+      "deletions": 0,
+      "date": "2026-05-26"
+    },
+    "coverage": 100,
+    "test_count": 7,
     "failed_tests": 0,
     "conclusion": "success"
   }
