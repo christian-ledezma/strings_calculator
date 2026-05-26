@@ -38,9 +38,23 @@
     "testId": 1
   },
   {
-    "commitId": "HEAD",
+    "commitId": "5f021457714d55697f869e1ed9b97ff9aeaa3821",
     "commitName": "feat: un solo número retorna su valor",
     "commitTimestamp": 1779765238906,
     "testId": 1
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 0,
+    "numTotalTests": 4,
+    "timestamp": 1779765292737,
+    "success": true,
+    "testId": 2
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: un solo número retorna su valor",
+    "commitTimestamp": 1779765333302,
+    "testId": 2
   }
 ]

@@ -19,12 +19,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "5f021457714d55697f869e1ed9b97ff9aeaa3821",
     "author": "christian-ledezma",
     "commit": {
       "date": "2026-05-26T03:13:58.000Z",
       "message": "feat: un solo número retorna su valor",
-      "url": "https://github.com/christian-ledezma/strings_calculator/commit/HEAD"
+      "url": "https://github.com/christian-ledezma/strings_calculator/commit/5f021457714d55697f869e1ed9b97ff9aeaa3821"
     },
     "stats": {
       "total": 11,
@@ -34,6 +34,25 @@
     },
     "coverage": 100,
     "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "christian-ledezma",
+    "commit": {
+      "date": "2026-05-26T03:15:33.000Z",
+      "message": "feat: un solo número retorna su valor",
+      "url": "https://github.com/christian-ledezma/strings_calculator/commit/HEAD"
+    },
+    "stats": {
+      "total": 6,
+      "additions": 5,
+      "deletions": 1,
+      "date": "2026-05-26"
+    },
+    "coverage": 100,
+    "test_count": 4,
     "failed_tests": 0,
     "conclusion": "success"
   }

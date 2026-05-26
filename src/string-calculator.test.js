@@ -6,7 +6,11 @@ describe("Calculadora de Cadenas", () => {
     });
 
     it("debería retornar el número para cadena con un solo número", () => {
-    expect(sumarCadena("2")).toEqual(2);
+        expect(sumarCadena("2")).toEqual(2);
+    });
+
+    it("debería retornar el número para cadena con un solo número (otro caso)", () => {
+        expect(sumarCadena("5")).toEqual(5);
     });
 
 });
