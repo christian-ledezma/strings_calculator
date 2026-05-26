@@ -5,8 +5,9 @@ function sumarCadena(cadena) {
   let secuencia = cadena;
 
   if (cadena.startsWith("//")) {
-    const partes = cadena.match(/^\/\/\[(.+?)\]\s([\s\S]*)$/);
-    delimitadores = [",", "-", partes[1]];
+    const partes = cadena.match(/^\/\/(\[.+?\])+\s([\s\S]*)$/);
+    const delims = partes[0].matchAll(/\[(.+?)\]/g);
+    delimitadores = [",", "-", ...[...delims].map((m) => m[1])];
     secuencia = partes[2];
   }
 

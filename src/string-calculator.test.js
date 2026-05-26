@@ -53,4 +53,12 @@ describe("Calculadora de Cadenas", () => {
         expect(sumarCadena("//[***] 1***2***3")).toEqual(6);
     });
 
+    it("debería soportar múltiples delimitadores custom", () => {
+        expect(sumarCadena("//[*][%] 1*2%3,7-9")).toEqual(22);
+    });
+    
+    it("debería soportar múltiples delimitadores junto a los defaults", () => {
+        expect(sumarCadena("//[*][%%] 1*2%%3,4-2")).toEqual(12);
+    });
+
 });

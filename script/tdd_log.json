@@ -176,9 +176,39 @@
     "testId": 8
   },
   {
-    "commitId": "HEAD",
+    "commitId": "4e8a0d1100ef0e97aa060460b43b615bd6daa674",
     "commitName": "feat: delimitador de múltiples caracteres",
     "commitTimestamp": 1779766680337,
     "testId": 8
+  },
+  {
+    "numPassedTests": 14,
+    "failedTests": 2,
+    "numTotalTests": 16,
+    "timestamp": 1779766698681,
+    "success": false,
+    "testId": 9
+  },
+  {
+    "numPassedTests": 11,
+    "failedTests": 5,
+    "numTotalTests": 16,
+    "timestamp": 1779766838720,
+    "success": false,
+    "testId": 9
+  },
+  {
+    "numPassedTests": 16,
+    "failedTests": 0,
+    "numTotalTests": 16,
+    "timestamp": 1779767062078,
+    "success": true,
+    "testId": 9
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: múltiples delimitadores custom",
+    "commitTimestamp": 1779767101218,
+    "testId": 9
   }
 ]
