@@ -16,9 +16,31 @@
     "testId": 0
   },
   {
-    "commitId": "HEAD",
+    "commitId": "a88529d598d680818fe42067b5e86b1d69cb4ffe",
     "commitName": "feat: cadena vacía retorna 0",
     "commitTimestamp": 1779764847428,
     "testId": 0
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 1,
+    "numTotalTests": 3,
+    "timestamp": 1779764938267,
+    "success": false,
+    "testId": 1
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1779765210276,
+    "success": true,
+    "testId": 1
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: un solo número retorna su valor",
+    "commitTimestamp": 1779765238906,
+    "testId": 1
   }
 ]
