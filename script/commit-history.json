@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "christian-ledezma",
+    "commit": {
+      "date": "2026-05-26T03:07:26.000Z",
+      "message": "feat: cadena vacía retorna 0",
+      "url": "https://github.com/christian-ledezma/strings_calculator/commit/HEAD"
+    },
+    "stats": {
+      "total": 14443,
+      "additions": 4516,
+      "deletions": 9927,
+      "date": "2026-05-26"
+    },
+    "coverage": 100,
+    "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
