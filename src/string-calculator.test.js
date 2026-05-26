@@ -49,4 +49,8 @@ describe("Calculadora de Cadenas", () => {
         expect(sumarCadena("1000,1001,3")).toEqual(1003);
     });
 
+    it("debería soportar delimitador de múltiples caracteres como ***", () => {
+        expect(sumarCadena("//[***] 1***2***3")).toEqual(6);
+    });
+
 });

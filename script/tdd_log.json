@@ -162,9 +162,23 @@
     "testId": 7
   },
   {
-    "commitId": "HEAD",
+    "commitId": "5f2735caea94a7895a8468c678084b582c503101",
     "commitName": "feat: ignora números mayores a 1000",
     "commitTimestamp": 1779766594226,
     "testId": 7
+  },
+  {
+    "numPassedTests": 14,
+    "failedTests": 0,
+    "numTotalTests": 14,
+    "timestamp": 1779766622474,
+    "success": true,
+    "testId": 8
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: delimitador de múltiples caracteres",
+    "commitTimestamp": 1779766680337,
+    "testId": 8
   }
 ]
