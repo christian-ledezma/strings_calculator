@@ -52,9 +52,31 @@
     "testId": 2
   },
   {
-    "commitId": "HEAD",
+    "commitId": "6b08ec567c9e8ecb3bfa618e50aac61da6d7ea42",
     "commitName": "feat: un solo número retorna su valor",
     "commitTimestamp": 1779765333302,
     "testId": 2
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 1,
+    "numTotalTests": 5,
+    "timestamp": 1779765355687,
+    "success": false,
+    "testId": 3
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 0,
+    "numTotalTests": 5,
+    "timestamp": 1779765394911,
+    "success": true,
+    "testId": 3
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: suma dos números separados por coma",
+    "commitTimestamp": 1779765424459,
+    "testId": 3
   }
 ]
