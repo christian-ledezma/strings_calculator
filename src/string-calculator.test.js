@@ -41,4 +41,12 @@ describe("Calculadora de Cadenas", () => {
         expect(sumarCadena("//[;] 6,3-2;1")).toEqual(12);
     });
 
+    it("debería ignorar números mayores a 1000", () => {
+        expect(sumarCadena("2,1001")).toEqual(2);
+    });
+    
+    it("debería incluir exactamente 1000 pero ignorar 1001", () => {
+        expect(sumarCadena("1000,1001,3")).toEqual(1003);
+    });
+
 });

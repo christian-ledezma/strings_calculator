@@ -16,7 +16,7 @@ function sumarCadena(cadena) {
   const regex = new RegExp(escapados.join("|"));
 
   const numeros = secuencia.split(regex).map(Number);
-  return numeros.reduce((acc, n) => acc + n, 0);
+  return numeros.filter((n) => n <= 1000).reduce((acc, n) => acc + n, 0);
 }
 
 export default sumarCadena;

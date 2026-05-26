@@ -114,12 +114,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "5f97b6a3153a0c9f0d5987c13fea1ad65ff156e8",
     "author": "christian-ledezma",
     "commit": {
       "date": "2026-05-26T03:34:55.000Z",
       "message": "feat: delimitador custom con formato //[delim]",
-      "url": "https://github.com/christian-ledezma/strings_calculator/commit/HEAD"
+      "url": "https://github.com/christian-ledezma/strings_calculator/commit/5f97b6a3153a0c9f0d5987c13fea1ad65ff156e8"
     },
     "stats": {
       "total": 25,
@@ -129,6 +129,25 @@
     },
     "coverage": 100,
     "test_count": 11,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "christian-ledezma",
+    "commit": {
+      "date": "2026-05-26T03:36:34.000Z",
+      "message": "feat: ignora números mayores a 1000",
+      "url": "https://github.com/christian-ledezma/strings_calculator/commit/HEAD"
+    },
+    "stats": {
+      "total": 10,
+      "additions": 9,
+      "deletions": 1,
+      "date": "2026-05-26"
+    },
+    "coverage": 100,
+    "test_count": 13,
     "failed_tests": 0,
     "conclusion": "success"
   }

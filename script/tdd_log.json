@@ -140,9 +140,31 @@
     "testId": 6
   },
   {
-    "commitId": "HEAD",
+    "commitId": "5f97b6a3153a0c9f0d5987c13fea1ad65ff156e8",
     "commitName": "feat: delimitador custom con formato //[delim]",
     "commitTimestamp": 1779766495841,
     "testId": 6
+  },
+  {
+    "numPassedTests": 11,
+    "failedTests": 2,
+    "numTotalTests": 13,
+    "timestamp": 1779766522575,
+    "success": false,
+    "testId": 7
+  },
+  {
+    "numPassedTests": 13,
+    "failedTests": 0,
+    "numTotalTests": 13,
+    "timestamp": 1779766570108,
+    "success": true,
+    "testId": 7
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: ignora números mayores a 1000",
+    "commitTimestamp": 1779766594226,
+    "testId": 7
   }
 ]
